@@ -30,8 +30,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <img src={batman} className="logo" alt="Vite logo" />
     </>
-  )
+  );
 }
 
 export default App
